@@ -16,9 +16,6 @@ Sitio web empresarial completo con diseño personalizado y elementos interactivo
 - 🎯 HTML/CSS/JavaScript
 - 🔧 Backend con API REST: [APIREST-crealu](https://github.com/cx0ssj1/APIREST-crealu) (Python)
 
-### 🚀 [StarLaunch](https://github.com/cx0ssj1/starlaunch)
-Aplicación web que combina backend en Python con frontend moderno.
-
 ### ♿ [Proyecto Discapacidad UCSC](https://github.com/cx0ssj1/proyecto-discapacidadUCSC)
 Proyecto web enfocado en accesibilidad, demostrando compromiso con la tecnología inclusiva.
 
