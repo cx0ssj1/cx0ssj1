@@ -9,7 +9,7 @@ Soy un desarrollador full-stack apasionado por el desarrollo móvil, las tecnolo
 Aplicación móvil Android construida con **Kotlin**, **Jetpack Compose** y **Firebase**. Arquitectura moderna para mapeo de rutas accesibles.
 - 🎨 UI moderna con Jetpack Compose
 - ☁️ Integración en la nube con Firebase
-- 📊 [Ver Presentación](https://github.com/cx0ssj1/RutasAbiertasPresentacion)
+- 📊 [Ver Presentación](https://presentacion.rutasabiertas.app)
 
 ### 🌐 [Creaciones Lucero](https://github.com/cx0ssj1/creaciones_lucero)
 Sitio web empresarial completo con diseño personalizado y elementos interactivos.
