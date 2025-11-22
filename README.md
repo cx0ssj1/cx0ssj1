@@ -1,30 +1,30 @@
-# Hi there! 👋 I'm Carlos Salvo
+# ¡Hola! 👋 Soy Carlos Salvo
 
-## 🚀 About Me
-I'm a full-stack developer passionate about mobile development, web technologies, and creating impactful solutions. Currently focused on building accessible and innovative applications.
+## 🚀 Sobre Mí
+Soy un desarrollador full-stack apasionado por el desarrollo móvil, las tecnologías web y la creación de soluciones impactantes. Actualmente enfocado en construir aplicaciones accesibles e innovadoras.
 
-## 💻 Featured Projects
+## 💻 Proyectos Destacados
 
 ### 📱 [RutasAbiertasApp](https://github.com/cx0ssj1/RutasAbiertasApp)
-Mobile Android application built with **Kotlin**, **Jetpack Compose**, and **Firebase**. Modern architecture for accessible route mapping.
-- 🎨 Modern UI with Jetpack Compose
-- ☁️ Cloud integration with Firebase
-- 📊 [View Presentation](https://github.com/cx0ssj1/RutasAbiertasPresentacion)
+Aplicación móvil Android construida con **Kotlin**, **Jetpack Compose** y **Firebase**. Arquitectura moderna para mapeo de rutas accesibles.
+- 🎨 UI moderna con Jetpack Compose
+- ☁️ Integración en la nube con Firebase
+- 📊 [Ver Presentación](https://github.com/cx0ssj1/RutasAbiertasPresentacion)
 
 ### 🌐 [Creaciones Lucero](https://github.com/cx0ssj1/creaciones_lucero)
-Full-featured business website with custom design and interactive elements.
+Sitio web empresarial completo con diseño personalizado y elementos interactivos.
 - 🎯 HTML/CSS/JavaScript
-- 🔧 REST API Backend: [APIREST-crealu](https://github.com/cx0ssj1/APIREST-crealu) (Python)
+- 🔧 Backend con API REST: [APIREST-crealu](https://github.com/cx0ssj1/APIREST-crealu) (Python)
 
 ### 🚀 [StarLaunch](https://github.com/cx0ssj1/starlaunch)
-Web application combining Python backend with modern frontend.
+Aplicación web que combina backend en Python con frontend moderno.
 
 ### ♿ [Proyecto Discapacidad UCSC](https://github.com/cx0ssj1/proyecto-discapacidadUCSC)
-Accessibility-focused web project demonstrating commitment to inclusive technology.
+Proyecto web enfocado en accesibilidad, demostrando compromiso con la tecnología inclusiva.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y Herramientas
 
-### Languages
+### Lenguajes
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -32,44 +32,44 @@ Accessibility-focused web project demonstrating commitment to inclusive technolo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks y Herramientas
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![cx0ssj1's GitHub stats](https://github-readme-stats.vercel.app/api?username=cx0ssj1&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 Estadísticas de GitHub
+![Estadísticas de cx0ssj1](https://github-readme-stats.vercel.app/api?username=cx0ssj1&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cx0ssj1&layout=compact&theme=tokyonight&hide_border=true)
+## 📈 Lenguajes Más Usados
+![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=cx0ssj1&layout=compact&theme=tokyonight&hide_border=true&locale=es)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cx0ssj1&theme=tokyonight&hide_border=true)
+## 🔥 Racha de Contribuciones
+![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=cx0ssj1&theme=tokyonight&hide_border=true&locale=es)
 
-## 🌱 What I'm Currently Working On
-- 📱 Developing mobile applications with Kotlin & Jetpack Compose
-- 🔥 Building scalable backends with Firebase
-- 🌐 Creating responsive web applications
-- ♿ Focusing on accessibility and inclusive design
+## 🌱 En Qué Estoy Trabajando Actualmente
+- 📱 Desarrollando aplicaciones móviles con Kotlin y Jetpack Compose
+- 🔥 Construyendo backends escalables con Firebase
+- 🌐 Creando aplicaciones web responsivas
+- ♿ Enfocándome en accesibilidad y diseño inclusivo
 
-## 💼 Tech Stack Distribution
-- **Mobile Development**: Kotlin, Android, Jetpack Compose, Firebase
-- **Backend**: Python (REST APIs), Java
+## 💼 Distribución de Stack Tecnológico
+- **Desarrollo Móvil**: Kotlin, Android, Jetpack Compose, Firebase
+- **Backend**: Python (APIs REST), Java
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Focus Areas**: Mobile-first design, Cloud integration, Accessibility
+- **Áreas de Enfoque**: Diseño mobile-first, Integración en la nube, Accesibilidad
 
-## 📫 How to Reach Me
+## 📫 Cómo Contactarme
 - GitHub: [@cx0ssj1](https://github.com/cx0ssj1)
-- Portfolio: [carlos-salvo](https://github.com/cx0ssj1/carlos-salvo)
-- 💬 Open to collaboration on mobile and web projects!
+- Portafolio: [Carlos Salvo](https://carlossalvo.dev)
+- 💬 ¡Abierto a colaborar en proyectos móviles y web!
 
-## ⚡ Fun Fact
-I believe technology should be accessible to everyone - that's why I focus on building inclusive applications that make a difference!
+## ⚡ Dato Curioso
+Creo que la tecnología debe ser accesible para todos - ¡por eso me enfoco en construir aplicaciones inclusivas que marquen la diferencia!
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cx0ssj1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cx0ssj1&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Visitas al perfil" />
 </p>
 
-💡 *"First, solve the problem. Then, write the code." – John Johnson*
+💡 *"Si una persona no tiene sueños, no tiene razón para vivir. Soñar es necesario aún cuando el sueño va más allá de la realidad, para mi soñar es uno de los principios de la vida" – Ayrton Senna*
