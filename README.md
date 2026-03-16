@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Carlos Salvo
 
 ## 🚀 Sobre Mí
-Soy un desarrollador full-stack apasionado por el desarrollo móvil, las tecnologías web y la creación de soluciones impactantes. Actualmente enfocado en construir aplicaciones accesibles e innovadoras.
+Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas integrales, desde el desarrollo móvil y web hasta arquitecturas eficientes. Actualmente, mi mayor enfoque es la optimización operativa: diseño e implemento automatizaciones complejas y agentes de Inteligencia Artificial utilizando herramientas como n8n, Make y Zapier para transformar flujos de trabajo y generar un impacto medible en los negocios.
 
 
 
@@ -39,16 +39,15 @@ Proyecto web enfocado en accesibilidad, demostrando compromiso con la tecnologí
 
 
 ## 🌱 En Qué Estoy Trabajando Actualmente
-- 📱 Desarrollando aplicaciones móviles con Kotlin y Jetpack Compose
-- 🔥 Construyendo backends escalables con Firebase
-- 🌐 Creando aplicaciones web responsivas
-- ♿ Enfocándome en accesibilidad y diseño inclusivo
+- 🤖 Automatización e IA: Diseñando flujos de trabajo inteligentes e integrando agentes de IA para optimizar procesos operativos y logísticos.
+- 📱 Experiencias Móviles: Desarrollando aplicaciones Android modernas e intuitivas utilizando Kotlin, Jetpack Compose y arquitecturas multiplataforma.
+- 🔥 Infraestructura Backend: Construyendo bases de datos y arquitecturas escalables apoyadas en Firebase y tecnologías como Python/Django.
 
 ## 💼 Distribución de Stack Tecnológico
 - **Desarrollo Móvil**: Kotlin, Dart, Flutter Android, Jetpack Compose, Firebase
 - **Backend**: Python, Java
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Áreas de Enfoque**: Diseño mobile-first, Integración en la nube, Accesibilidad
+- **Áreas de Enfoque**: Diseño mobile-first, Integración en la nube, Automatización
 
 ## 📫 Cómo Contactarme
 - GitHub: [@cx0ssj1](https://github.com/cx0ssj1)
