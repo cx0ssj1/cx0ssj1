@@ -7,11 +7,11 @@ Soy un desarrollador Full-Stack apasionado por crear soluciones tecnológicas in
 
 ## 💻 Proyectos Destacados
 
-### 📱 [Rutas Abiertas App](https://presentacion.rutasabiertas.app)
-Aplicación móvil Android e IOS que esta siendo construida con **Flutter**, **Python** y **MongoDB**. Arquitectura moderna para mapeo de rutas accesibles.
+### 📱 [Rutas Abiertas App](https://rutasabiertas.cl)
+Aplicación móvil Android e IOS que esta siendo construida con **Flutter**, **Python** y **Supabase**. Arquitectura moderna para mapeo de rutas accesibles.
 - 🎨 UI moderna enfocada en la accesibilidad
 - ☁️ Integración en la nube con Mongodb y servicios de Google
-- 📊 [Ver Presentación](https://presentacion.rutasabiertas.app)
+- 📊 [Ver Presentación](https://rutasabiertas.cl)
 
 ### ♿ [Proyecto Alfabetización Jurídica en Discapacidad para UCSC](https://github.com/cx0ssj1/proyecto-discapacidadUCSC)
 Proyecto web enfocado en accesibilidad, demostrando compromiso con la tecnología inclusiva.
